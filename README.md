@@ -148,4 +148,4 @@ k8snode01                  : ok=23   changed=3    unreachable=0    failed=0    s
 k8snode02                  : ok=23   changed=3    unreachable=0    failed=0    skipped=11   rescued=0    ignored=0
 ```
 
-Next check article on bootsrapping k8s control plane: https://wiki.kalyuzhnyy.ru/books/kubernetes-k8s/page/kak-ustanovit-kubernetes-v-ubuntu-2404-vypolnite-sagi)
+Next check article on bootsrapping k8s control plane: https://wiki.kalyuzhnyy.ru/books/kubernetes-k8s/page/kak-ustanovit-kubernetes-v-ubuntu-2404-vypolnite-sagi) and https://kalyuzhnyy.ru/%d0%ba%d0%b0%d0%ba-%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d1%8c-kubernetes-%d0%b2-ubuntu-24-04/
