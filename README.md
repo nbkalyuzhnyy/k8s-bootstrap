@@ -8,8 +8,6 @@ It only helps you automate the standard Kubernetes bootstrapping pre-reqs.
 
 - Ubuntu 24.04
 - Ubuntu 22.04
-- Ubuntu 20.04
-- Ubuntu 18.04
 
 ## Required Ansible
 Ansible version required `2.10+`
