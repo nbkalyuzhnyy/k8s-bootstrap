@@ -32,14 +32,14 @@ $ git clone https://github.com/cloudspinx/k8s-bootstrap.git
 - Configure `/etc/hosts` file in your bastion or workstation with all nodes and ip addresses. Example:
 
 ```bash
-192.168.200.10 k8smaster01.example.com k8smaster01
-192.168.200.11 k8smaster02.example.com k8smaster02
-192.168.200.12 k8smaster03.example.com k8smaster03
+192.168.0.230 k8smaster01.example.com k8smaster01
+192.168.0.240  k8smaster02.example.com k8smaster02
+192.168.0.241  k8smaster03.example.com k8smaster03
 
-192.168.200.13 k8snode01.example.com k8snode01
-192.168.200.14 k8snode02.example.com k8snode02
-192.168.200.15 k8snode03.example.com k8snode03
-192.168.200.16 k8snode04.example.com k8snode04
+192.168.0.231 k8snode01.example.com k8snode01
+192.168.0.232 k8snode02.example.com k8snode02
+192.168.0.233 k8snode03.example.com k8snode03
+192.168.0.234 k8snode04.example.com k8snode04
 ```
 
 - Update your inventory, for example:
