@@ -26,7 +26,7 @@ This role contains tasks to:
 - Clone the Project:
 
 ```bash
-$ git clone https://github.com/cloudspinx/k8s-bootstrap.git
+$ git clone https://github.com/nbkalyuzhnyy/k8s-bootstrap.git
 ```
 
 - Configure `/etc/hosts` file in your bastion or workstation with all nodes and ip addresses. Example:
